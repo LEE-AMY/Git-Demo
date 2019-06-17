@@ -1,9 +1,11 @@
-git first
+git master-first
+git master-two
+
+---------------------
 git dev-first
 git dev-two
-
-git master == first
 git dev-three
 
+---------------------
 git dev1-first
 
